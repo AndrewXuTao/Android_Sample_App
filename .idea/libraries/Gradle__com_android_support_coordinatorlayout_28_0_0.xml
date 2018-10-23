@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:coordinatorlayout-28.0.0">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../Android/Android/.grandle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/be8f76bd7ca4a2bed4a9b3d9c68e2022/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Android/Android/.grandle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/be8f76bd7ca4a2bed4a9b3d9c68e2022/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Android/Android/.grandle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/be8f76bd7ca4a2bed4a9b3d9c68e2022/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
